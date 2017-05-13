@@ -32,7 +32,7 @@ Note: Change `frames="26"` to set your wait duration.
 
 # Advanced
 ### Custom auto transition
-`<Op id="TransitionPosition" mixEffectBlockIndex="0" position="1"/>`
+`<Op id="TransitionPosition" mixEffectBlockIndex="0" position="1"/>`<br />
 `<Op id="MacroSleep" frames="2"/>`
 `<Op id="TransitionPosition" mixEffectBlockIndex="0" position="0.75"/>`
 `<Op id="MacroSleep" frames="2"/>`
