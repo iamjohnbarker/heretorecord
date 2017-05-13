@@ -5,8 +5,12 @@ Note: Change `mixEffectBlockIndex="0"` to reflect you ME.
 # Basic Control
 ### Cut
 `<Op id="CutTransition" mixEffectBlockIndex="0"/>`
+`<Op id="ProgramInput" mixEffectBlockIndex="0" input="Camera1"/>`
+`<Op id="PreviewInput" mixEffectBlockIndex="0" input="Camera2"/>`
 ### Auto
 `<Op id="AutoTransition" mixEffectBlockIndex="0"/>`
+`<Op id="ProgramInput" mixEffectBlockIndex="0" input="Camera1"/>`
+`<Op id="PreviewInput" mixEffectBlockIndex="0" input="Camera2"/>`
 ### Program
 `<Op id="ProgramInput" mixEffectBlockIndex="0" input="Camera5"/>`
 ### Preview
