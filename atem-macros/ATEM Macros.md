@@ -2,7 +2,7 @@
 
 ### Basic Control
 ### Cut
-'<Op id="CutTransition" mixEffectBlockIndex="0"/>'
+`<Op id="CutTransition" mixEffectBlockIndex="0"/>`
 ### Auto
 <Op id="AutoTransition" mixEffectBlockIndex="0"/>
 ### Program
