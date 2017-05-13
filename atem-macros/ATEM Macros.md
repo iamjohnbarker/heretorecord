@@ -1,5 +1,7 @@
 # ATEM Macros - Getting started
 
+Note: Change `mixEffectBlockIndex="0"` to reflect you ME.
+
 ### Basic Control
 ### Cut
 `<Op id="CutTransition" mixEffectBlockIndex="0"/>`
@@ -11,6 +13,7 @@
 `<Op id="PreviewInput" mixEffectBlockIndex="0" input="Camera7"/>`
 
 ## Down and Upstream keys
+Note: Change `keyIndex="0"` to reflect the keyer that you wish to turn on/off.
 ### Downstream Key ON
 `<Op id="DownstreamKeyOnAir" keyIndex="0" onAir="True"/>`
 ### Downstream Key OFF
@@ -21,6 +24,7 @@
 `<Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="0" onAir="False"/>`
 
 ## Macro settings
+Note: Change `frames="26"` to set your wait duration.
 ### Macro Sleep
 `<Op id="MacroSleep" frames="26"/>`
 ### Macro User Wait
