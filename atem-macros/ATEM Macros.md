@@ -1,11 +1,11 @@
 
 
-###Basic Control
-###Cut
+### Basic Control
+### Cut
 <Op id="CutTransition" mixEffectBlockIndex="0"/>
-###Auto
+### Auto
 <Op id="AutoTransition" mixEffectBlockIndex="0"/>
-###Program
+### Program
 <Op id="ProgramInput" mixEffectBlockIndex="0" input="Camera5"/>
 ###Preview
 <Op id="PreviewInput" mixEffectBlockIndex="0" input="Camera7"/>
