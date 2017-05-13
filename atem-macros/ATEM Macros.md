@@ -33,18 +33,18 @@ Note: Change `frames="26"` to set your wait duration.
 # Advanced
 ### Custom auto transition
 `<Op id="TransitionPosition" mixEffectBlockIndex="0" position="1"/>`<br />
-`<Op id="MacroSleep" frames="2"/>`
-`<Op id="TransitionPosition" mixEffectBlockIndex="0" position="0.75"/>`
-`<Op id="MacroSleep" frames="2"/>`
-`<Op id="TransitionPosition" mixEffectBlockIndex="0" position="0.5"/>`
-`<Op id="MacroSleep" frames="2"/>`
-`<Op id="TransitionPosition" mixEffectBlockIndex="0" position="0.25"/>`
-`<Op id="MacroSleep" frames="2"/>`
+`<Op id="MacroSleep" frames="2"/>`<br />
+`<Op id="TransitionPosition" mixEffectBlockIndex="0" position="0.75"/>`<br />
+`<Op id="MacroSleep" frames="2"/>`<br />
+`<Op id="TransitionPosition" mixEffectBlockIndex="0" position="0.5"/>`<br />
+`<Op id="MacroSleep" frames="2"/>`<br />
+`<Op id="TransitionPosition" mixEffectBlockIndex="0" position="0.25"/>`<br />
+`<Op id="MacroSleep" frames="2"/>`<br />
 `<Op id="TransitionPosition" mixEffectBlockIndex="0" position="0.0"/>`
 Note: The `position="1"` variable will allow you to enter any number between 1.0 and 0.0. The more steps, the smoother the transition.
 
 ### Custom audio fade
-`<Op id="AudioMixerMasterOutGain" gain="32768"/>`
+`<Op id="AudioMixerMasterOutGain" gain="32768"/>`<br />
 `<Op id="MacroSleep" frames="2"/>`
 repeat
 Note: `gain="32768"` is '0db' and `gain="0"` is '-inf' on the master audio control. The MacroSleep frames will allow you to set a smooth fade.
