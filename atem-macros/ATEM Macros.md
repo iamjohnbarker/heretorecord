@@ -2,7 +2,7 @@
 
 Note: Change `mixEffectBlockIndex="0"` to reflect you ME.
 
-## Basic Control
+# Basic Control
 ### Cut
 `<Op id="CutTransition" mixEffectBlockIndex="0"/>`
 ### Auto
@@ -12,7 +12,7 @@ Note: Change `mixEffectBlockIndex="0"` to reflect you ME.
 ### Preview
 `<Op id="PreviewInput" mixEffectBlockIndex="0" input="Camera7"/>`
 
-## Down and Upstream keys
+# Down and Upstream keys
 Note: Change `keyIndex="0"` to reflect the keyer that you wish to turn on/off.
 ### Downstream Key ON
 `<Op id="DownstreamKeyOnAir" keyIndex="0" onAir="True"/>`
@@ -23,14 +23,14 @@ Note: Change `keyIndex="0"` to reflect the keyer that you wish to turn on/off.
 ### Upstream Key OFF
 `<Op id="KeyOnAir" mixEffectBlockIndex="0" keyIndex="0" onAir="False"/>`
 
-## Macro settings
+# Macro settings
 ### Macro Sleep
 `<Op id="MacroSleep" frames="26"/>`
 Note: Change `frames="26"` to set your wait duration.
 ### Macro User Wait
 `<Op id="MacroUserWait"/>`
 
-## Advanced
+# Advanced
 ### Custom auto transition
 `<Op id="TransitionPosition" mixEffectBlockIndex="0" position="1"/>`
 `<Op id="MacroSleep" frames="2"/>`
