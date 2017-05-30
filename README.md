@@ -6,4 +6,8 @@ This is the countdown timer we use during breaks on a live stream. We insert it 
 The timer allows the viewers to know how long before the next talk!
 See the code right here: https://github.com/iamjohnbarker/heretorecord/tree/master/live-stream-countdown
 
+## ATEM Macros
+We've complied a list of ATEM Macros that we find most useful. Feel free to use these (copy/paste) into your saved ATEM's .xml file.
+See the examples right here: https://github.com/iamjohnbarker/heretorecord/tree/master/atem-macros
+
 More coming soon!
