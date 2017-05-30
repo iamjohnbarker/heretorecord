@@ -1,6 +1,6 @@
 # ATEM Macros - Getting started
 
-Note: Change `mixEffectBlockIndex="0"` to reflect you ME.
+Note: Change `mixEffectBlockIndex="0"` to reflect your ME.
 
 # Basic Control
 ### Cut
