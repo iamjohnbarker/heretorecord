@@ -8,6 +8,6 @@ See the code right here: https://github.com/iamjohnbarker/heretorecord/tree/mast
 
 ## ATEM Macros
 We've complied a list of ATEM Macros that we find most useful. Feel free to use these (copy/paste) into your saved ATEM's .xml file.
-See the examples right here: https://github.com/iamjohnbarker/heretorecord/tree/master/atem-macros
+See the examples right here: https://github.com/iamjohnbarker/heretorecord/blob/master/atem-macros/ATEM%20Macros.md
 
 More coming soon!
